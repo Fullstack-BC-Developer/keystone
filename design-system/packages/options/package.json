@@ -1,6 +1,6 @@
 {
   "name": "@keystone-ui/options",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "license": "MIT",
   "main": "dist/options.cjs.js",
   "module": "dist/options.esm.js",
